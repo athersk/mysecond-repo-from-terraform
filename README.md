@@ -1,2 +1,2 @@
-# mysecond-repo-from-terraform - Manually changes done by Ather
+# mysecond-repo-from-terraform 
 My second repo build by terraform 
